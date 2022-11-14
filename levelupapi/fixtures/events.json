@@ -1,0 +1,13 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Fun game for up to four players! Become settlers and monopolize resources!",
+            "date": "2022-10-16",
+            "time": "17:00",
+            "gamer": 1
+        }
+    }
+]

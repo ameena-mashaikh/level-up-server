@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "title": "Catan",
+            "maker": "Klaus Teuber",
+            "number_of_players": 4,
+            "skill_level": 5
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 3,
+            "title": "Lost Ark",
+            "maker": "Smilegate",
+            "number_of_players": 1,
+            "skill_level": 6
+        }
+    }
+]
